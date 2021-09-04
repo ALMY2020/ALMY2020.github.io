@@ -4,7 +4,7 @@
   "description": "The frontpage for Dungeons & Dragons Adventurer's League of Malaysia or as we call it Liga Pengenbara Malaysia",
   "scripts": {
     "prebuild": "npx del docs",
-    "build": "npx eleventy --pathprefix ALMY2020.github.i0",  
+    "build": "npx eleventy",  
     "preserve": "npx del docs",
     "serve": "eleventy --serve",
     "watch": "eleventy --watch",
