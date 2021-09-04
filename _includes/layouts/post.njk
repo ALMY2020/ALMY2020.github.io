@@ -1,0 +1,31 @@
+---
+layout: layouts/base.njk
+---
+<h1>{{ title }}</h1>
+
+<time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
+{%- for tag in tags | filterTagList -%}
+{%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
+<a href="{{ tagUrl | url }}" class="post-tag" role="button">{{ tag }}</a>
+{%- endfor %}
+<br>
+<br>
+{{ content | safe }}
+
+{%- if collections.posts %}
+{%- set nextPost = collections.posts | getNextCollectionItem(page) %}
+{%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
+{%- if nextPost or previousPost %}
+<hr>
+{# <ul>
+  {%- if nextPost %}<li>Next: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a></li>{% endif %}
+  {%- if previousPost %}<li>Previous: <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a></li>{% endif %}
+</ul> #}
+<div class="container">
+  <div class="row">
+    {%- if nextPost %}<div class="col text-start">Next: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a></div>{% endif %}
+    {%- if previousPost %}<div class="col text-end">Previous: <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a></div>{% endif %}
+  </div>
+</div>
+{%- endif %}
+{%- endif %}

@@ -1,0 +1,29 @@
+{
+  "name": "ALMY2020.github.i0",
+  "version": "1.0.0",
+  "description": "The frontpage for Dungeons & Dragons Adventurer's League of Malaysia or as we call it Liga Pengenbara Malaysia",
+  "scripts": {
+    "prebuild": "npx del docs",
+    "build": "npx eleventy --pathprefix ALMY2020.github.i0",  
+    "preserve": "npx del docs",
+    "serve": "eleventy --serve",
+    "watch": "eleventy --watch",
+    "debug": "DEBUG=* eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ALMY2020/ALMY2020.github.io.git"
+  },
+  "author": {
+    "name": "ALMY2020"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy-navigation": "^0.3.2",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.2",
+    "luxon": "^1.26.0",
+    "markdown-it": "^12.1.0",
+    "markdown-it-anchor": "^8.1.2",
+    "del-cli": "^4.0.1"
+  }
+}
