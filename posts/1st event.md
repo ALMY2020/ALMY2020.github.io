@@ -12,5 +12,5 @@ It will also be charity event and proceeds will be given to the [Lung Foundation
 The Epic Adventure being organized is DDEP-04 Reclaimation of Phlan. Participants will require a character made with [specific character creation rules](https://media.wizards.com/2021/dnd/downloads/HistoricCampaign_PGv1_0.pdf) of level 1 to 16 i.e. Tier 1 (Level 1 - 4), Tier 2 (Level 5 - 10) or Tier 3 (Level 11 - 16). Players will also the required accounts and apps to facilitate the online sessions which may include Discord, Roll20, etc.. Participants may also require working microphone for voice chat.
 
 <div class="text-center">
-  <img src="/img/GREEN_ALMY_EPIC2021.png" class="img-fluid" alt="ALMY 2021 Epic Poster">
+  <img src="/img/GREEN_ALMY_EPIC_2021.png" class="img-fluid" alt="ALMY 2021 Epic Poster">
 </div>
