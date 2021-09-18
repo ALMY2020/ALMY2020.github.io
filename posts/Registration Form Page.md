@@ -1,5 +1,6 @@
 ---
 title: ALMY 2021 Epic Halloween Registration
+date: 2021-09-18
 layout: layouts/post.njk
 tags:
   - event

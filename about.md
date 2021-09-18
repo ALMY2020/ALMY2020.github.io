@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: About Adventurer's League of Malaysia
+date: 2021-09-04
 eleventyNavigation:
   key: About
   order: 1
