@@ -11,7 +11,15 @@ The **Adventurers League of Malaysia** aims to be an open and inclusive communit
 
 As such this code of conduct is written and enforced to ensure that any events or sessions run under the umbrella of the **Adventurers League of Malaysia** is conducted in an inclusive and safe manner. Any found to be violating this code will be investigated, judged and given the appropriate penalty which may include removal from events without refund and bans from participating in events. Adherence to this Code of Conduct is a fundamental aspect of interacting with the convention; people who violate it in letter or in spirit are not welcome at the **Adventurers League of Malaysia**.
 
-In addition to following the Adventurers League Code of Conduct, we have written the below as a general guide and rules when playing a Dungeons & Dragons session under the **Adventurers League of Malaysia**:
+## ADVENTURERS LEAGUE OF MALAYSIA GENERAL CODE OF CONDUCT
+D&D Adventurers League play is meant to be inclusive, fun, and safe. All participants (players, Dungeon Masters, and organizers) are expected to adhere to the following code of conduct:
+- Participants must not conduct themselves in a manner that is disruptive to the enjoyment or safety of others at the event.
+- Participants noticing disruptive behavior should make those responsible for the behavior aware of their actions. If a participant feels uncomfortable bringing it to the attention of the disruptive individual, the participant should notify the organizer of the event immediately.
+- Participants who feel as though they are in an unsafe environment should notify the organizer of the event immediately.
+- The Dungeon Master has the right to ask a disruptive player to leave the table and speak with the organizer. The organizer has the right to remove a disruptive or threatening player or Dungeon Master from the play area or premises.
+- No tolerance is given for theft or aggressive behavior. Theft and aggressive behavior are grounds for immediate removal from the play area and the premises.
+
+In addition to following the Adventurers League of Malaysia Code of Conduct, we have written the below as a general guide and rules when playing a Dungeons & Dragons session under the **Adventurers League of Malaysia**:
 
 0. Be nice.
 1. Do unto others as you would have them do unto you.
@@ -43,15 +51,6 @@ Dungeon Master: Runs the adventures for their assigned group.
 Event Staff: Helps organize the event as well as play various roles during the event.
 2. If you have anything to report, you may messages the Commander, Dungeon Masters or Event Staff on Discord.
 3. Once the report is made, we will do our utmost best to resolve the matter and provide feedback.
-
-
-## ADVENTURERS LEAGUE CODE OF CONDUCT
-D&D Adventurers League play is meant to be inclusive, fun, and safe. All participants (players, Dungeon Masters, and organizers) are expected to adhere to the following code of conduct:
-- Participants must not conduct themselves in a manner that is disruptive to the enjoyment or safety of others at the event.
-- Participants noticing disruptive behavior should make those responsible for the behavior aware of their actions. If a participant feels uncomfortable bringing it to the attention of the disruptive individual, the participant should notify the organizer of the event immediately.
-- Participants who feel as though they are in an unsafe environment should notify the organizer of the event immediately.
-- The Dungeon Master has the right to ask a disruptive player to leave the table and speak with the organizer. The organizer has the right to remove a disruptive or threatening player or Dungeon Master from the play area or premises.
-- No tolerance is given for theft or aggressive behavior. Theft and aggressive behavior are grounds for immediate removal from the play area and the premises.
 
 ## Examples of Violations
 Organizers, DMs, and players alike should maintain an awareness of possible violations to the code of conduct.
@@ -89,4 +88,6 @@ Unsafe behavior is more serious, and the Dungeon Master or other participants ha
 
 Theft and aggressive behavior are grounds for an immediate removal from the play area and/or premises and should always be brought to the organizer’s attention immediately.
 
-(Last updated: 2020-09-13)
+In regards to confidentiality of those reporting code of conduct violations, said person have no obligation or requirement to provide their actual names. All communications may be made via Discord direct messaging (using Discord Names) or email (Reports may be made to game.master.ian.adly@gmail.com). The confidentiiality of those that are reported and those that report is maintained by direct message with the organizers.
+
+(Last updated: 2020-09-30)
